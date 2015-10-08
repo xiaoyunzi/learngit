@@ -10,3 +10,4 @@ Creating  a new branch is quick AND simple.
 <<<<<<< HEAD
 Error
 Testing a new branch.
+Testing fast forward.
